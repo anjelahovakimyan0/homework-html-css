@@ -1,0 +1,178 @@
+body {
+   background-image: url("../img/b_body.jpg");
+   margin: 0px;
+}
+
+.header {
+    width: 95%;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.nav {
+    float: left;
+    margin-left: 225px;
+}
+
+.nav, .common-nav {
+    float: left;
+}
+
+.common-nav {
+    float: left;
+    margin-left: 30px;
+}
+
+.menu-line {
+    margin-bottom: 16px;
+}
+
+.logo {
+    float: left;
+    margin-left: 230px;
+    margin-bottom: 3px;
+}
+
+.slogan {
+    float: left;
+    margin-left: 16px;
+}
+
+.gallery-btn {
+     float: right;
+     margin-top: 22px;
+     margin-right: 89px;
+}
+
+.img-contact-me {
+    float: right;
+    margin-right: 278px;
+    margin-top: 22px;
+}
+
+.contact-me {
+    text-align: left;
+    margin-left: 230px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.phone {
+    float: left;
+    text-align: left;
+    width: 485px;
+    margin-left: 232px;
+    margin-bottom: 21px;
+    text-align: left;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: green;
+}
+
+.num {
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text {
+    width: 485px;
+    margin-left: 232px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 13px;
+}
+
+.gallery-btn-over {
+    float: left;
+    margin-left: 79px;
+    margin-top: 3px;
+}
+
+.h-drop-me-a-line {
+    text-align: left;
+    margin-left: 232px;
+    margin-top: 55px;
+}
+
+.name {
+    position: relative;
+    float: left;
+    margin-top: 17px;
+    margin-left: 232px;
+}
+
+.email, .website {
+    position: relative;
+    float: left;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+
+.message {
+    position: relative;
+    float: left;
+    margin-top: 17px;
+    margin-left: 232px;
+}
+
+.placeholder, .message-placeholeder {
+    position: absolute;
+    top: 0;
+    float: left;
+    padding: 14px;
+    margin: 2px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 13px;
+}
+
+.btn-send {
+    float: left;
+    margin-top: 18px;
+    margin-left: 800px;
+}
+
+.b-content {
+    text-align: left;
+    margin-left: 185px;
+}
+
+.icon {
+    float: right;
+    margin-top: 13px;
+    margin-right: 300px;
+}
+
+.h-follow {
+    float: right;
+    margin-top: 10px;
+}
+
+.hyperlink .first-a {
+    text-decoration: none;
+    float: left;
+    margin-top: 16px;
+    margin-left: 234px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 13px;
+    color: grey;
+}
+
+.hyperlink > a {
+    text-decoration: none;
+    float: left;
+    margin-top: 16px;
+    margin-left: 4px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 13px;
+    color: grey;
+}
+
+.copywrite {
+    float: left;
+    margin-left: 233px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 12px;
+    color: #918D67;
+}

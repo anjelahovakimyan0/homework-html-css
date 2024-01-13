@@ -1,0 +1,272 @@
+body {
+   background-image: url("../img/b_body.jpg");
+   margin: 0px;
+}
+
+.header {
+    width: 96%;
+    text-align: center;
+    margin-left: 42px;
+}
+
+.nav {
+    float: left;
+    margin-left: 225px;
+}
+
+.nav, .common-nav {
+    float: left;
+    margin-top: 8px;
+}
+
+.common-nav {
+    float: left;
+    margin-left: 30px;
+}
+
+.menu-line {
+    margin-bottom: 9px;
+}
+
+.logo {
+    float: left;
+    margin-left: 230px;
+    margin-bottom: 3px;
+}
+
+.slogan {
+    float: left;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+
+.gallery-btn {
+     float: right;
+     margin-top: 20px;
+     margin-right: 79px;
+}
+
+.thumbs {
+    position: relative;
+    float: left;
+    margin-top: 11px;
+    margin-left: 189px;
+}
+
+.slide-left {
+    position: absolute;
+    top: 0;
+    margin-top: 136px;
+    margin-left: 12px;
+}
+
+.b-thumb {
+    position: absolute;
+    top: 0;
+    margin-top: 24px;
+    margin-left: 42px;
+}
+
+.thumb {
+    position: absolute;
+    top: 0;
+    margin-top: 26px;
+    margin-left: 44px;
+}
+
+.b-thumb-02 {
+    position: absolute;
+    top: 0;
+    margin-top: 24px;
+    margin-left: 326px;
+}
+
+.thumb-02 {
+    position: absolute;
+    top: 0;
+    margin-top: 26px;
+    margin-left: 328px;
+}
+
+.b-thumb-03 {
+    position: absolute;
+    top: 0;
+    margin-top: 24px;
+    margin-left: 610px;
+}
+
+.thumb-03 {
+    position: absolute;
+    top: 0;
+    margin-top: 26px;
+    margin-left: 612px;
+}
+
+.slide-right {
+    position: absolute;
+    top: 0;
+    margin-top: 136px;
+    margin-left: 881px;
+}
+
+.h-about {
+    float: left;
+    margin-left: 230px;
+    margin-top: 21px;
+    margin-bottom: 7px;
+}
+
+.h-vision {
+    float: left;
+    margin-left: 60px;
+    margin-top: 21px;
+}
+
+.h-news {
+    float: right;
+    margin-right: 308px;
+    margin-top: 21px;
+}
+
+.main {
+    float: right;
+    margin-right: 385px;
+}
+
+.dates {
+    float: right;
+    width: 100px;
+}
+
+.b-date {
+    position: relative;
+    float: right;
+}
+
+.date-b {
+    position: absolute;
+    top: 0;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 3px;
+    color: green;
+    font-weight: bold;
+}
+
+.img-text {
+    width: 220px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: left;
+    margin-top: 11px;
+    font-size: 13px;
+}
+
+.list-date {
+    float: right;
+    text-align: center;
+}
+
+.b-date2 {
+    position: relative;
+    float: right;
+    margin-top: 59px;
+    margin-left: 115px;
+}
+
+.btn-more {
+    float: left;
+    margin-top: 107px;
+}
+
+.date-b2 {
+    position: absolute;
+    top: 0;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 3px;
+    color: green;
+    font-weight: bold;
+}
+
+.list {
+    float: right;
+    width: 240px;
+    margin-right: 65px;
+}
+
+.unordered {
+    margin-bottom: 9px;
+}
+
+.label > a, .label2 > a {
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    font-size: 13px;
+    color: green;
+    text-decoraton: none;
+}
+
+.label {
+    float: right;
+    width: 240px;
+    margin-right: 40px;
+}
+
+.btn-more2 {
+    float: left;
+    margin-top: 39px;
+    margin-left: 8px;
+}
+
+.b-content {
+    text-align: left;
+    margin-left: 225px;
+}
+
+.icon {
+    float: right;
+    margin-top: 13px;
+    margin-right: 300px;
+}
+
+.h-follow {
+    float: right;
+    margin-top: 10px;
+}
+
+.hyperlink .first-a {
+    text-decoration: none;
+    float: left;
+    margin-top: 16px;
+    margin-left: 274px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 13px;
+    color: grey;
+}
+
+.hyperlink > a {
+    text-decoration: none;
+    float: left;
+    margin-top: 16px;
+    margin-left: 14px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 13px;
+    color: grey;
+}
+
+.copywrite {
+    float: left;
+    margin-left: 283px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 12px;
+    color: #918D67;
+}
+
+
+
+
+
+
+
